@@ -3,15 +3,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning Data Structures and Algorithms in C, Data Science and Machine Learning
 - 👯 I’m looking to collaborate with Developers and Researchers on Projects..
-- 🤝 I’m Currently doing projects on IOT, Web Development, Machine Learning
+- 🤝 I’m Currently doing projects on Web Development, Pega Tool, UI/UX Designing..
 - 👨‍💻 Coding Portfolio [http://intern.skillrack.com/profile/308469/0611cc3cc9c5d01b2e28828ddc80bf212872e29e](http://intern.skillrack.com/profile/308469/0611cc3cc9c5d01b2e28828ddc80bf212872e29e)
 
 - 📝 I regularly write Blogs on [https://mgtechhub.blogspot.com/](https://mgtechhub.blogspot.com/)
 
 - 📫 How to reach me **magesh21.k@gmail.com**
-- ⚡ Hobbies : Cricket, Music, Bike Riding
+- ⚡ Hobbies : Cricket, Music, Travelling
 - 🌱 Student at Sri Sairam Engineering College.
 
 ## Connect with me:
