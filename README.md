@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **magesh21.k@gmail.com**
 - ⚡ Hobbies : Cricket, Music, Travelling
-- 🌱 Student at Sri Sairam Engineering College.
+- 🌱 Student at Sri Sairam Engineering College..
 
 ## Connect with me:
 <p align="left">
