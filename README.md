@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magesh-k21&" alt="magesh-k21" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAGESH-K21/&label=Profile%20views&color=0e75b6&style=flat" alt="MAGESH-K21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magesh-k21/&label=Profile%20views&color=0e75b6&style=flat" alt="magesh-k21" /> </p>
