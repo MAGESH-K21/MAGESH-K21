@@ -9,8 +9,7 @@
 </p>
 
 ## 🙋‍♂️ About Me
-
-- 🔒 **CompTIA Network+ (794/900) & Security+ (774/900) Certified** - Network & Security Professional
+- 🔒 **CompTIA Network+ & Security+ Certified** - Network & Security Professional
 - 💼 **1.5+ years Network Engineering experience** at Sify Technologies, Chennai
 - 🎓 **MSc in Cyber Security** at National College of Ireland, Dublin (Sep 2025 - Present)
 - 🌐 **Expertise**: Cisco/Juniper routers, Fortinet firewalls, routing protocols (OSPF, BGP), VLANs, network security
@@ -21,10 +20,8 @@
 - 🌍 **LinkedIn**: [linkedin.com/in/magesh-k21](https://www.linkedin.com/in/magesh-k21/)
 
 ## 💼 Professional Experience
-
 ### 🏢 Sify Technologies Ltd - Network Engineer
 **Jul 2023 - Jul 2024 | Chennai, India**
-
 - Administered **Cisco, Juniper, Dell network infrastructure** supporting enterprise clients
 - Configured **Fortinet firewalls, F5 load balancers**, routing protocols (OSPF, BGP, EIGRP)
 - Resolved **100+ monthly tickets**: firewall configs, MPLS, VLANs, device onboarding
@@ -34,20 +31,17 @@
 
 ### 🏢 Sify Technologies Ltd - Graduate Engineer Trainee
 **Jan 2024 - Jun 2024 | Chennai, India**
-
 - Completed **Campus Hire Induction Program (CHIP)** - Cloud Stream
 - Training: Networking, Security, ITIL, Cloud Operations, DevOps, Python, Golang
 - Hands-on: SIEM/SOAR, EDR/XDR, ZTNA, WAF, NGAV, Network Defense Technologies
 
 ### 💻 E-Mentor - WordPress Developer Intern
 **Sep 2022 - Oct 2022 | Remote**
-
 - Developed custom WordPress themes/plugins, **20% increase in organic traffic**
 - Translated Figma designs to responsive interfaces, **40% reduction in reported issues**
 
 ### 🏋️ BFY-SportsnFitness - Web Development Intern
 **Mar 2022 - May 2022 | Remote**
-
 - Resolved code/UX issues, **30% reduction in page load errors**
 - Implemented new features, **15% expansion in website functionality**
 
@@ -117,28 +111,23 @@
 - ⭐ Grade A Quarterly Performance - Sify Technologies (2024)
 
 ## 💼 Key Projects
-
 **Pega 8.8 Movie Ticket Booking System** (Nov 2023 - Feb 2024)
 - Automated booking system | Awarded "Best UI & Backend Functionality" | 30% user satisfaction improvement
-
 **Sai Cafe E-Cafe Management System** (Jan 2022 - Jun 2023)
 - Web-based food ordering platform | 40% increase in online orders | Best Paper & Project awards
 
 ## 📝 Research Publications
-
 - **IEEE IC3IoT 2024-2025**: "Empowering Rural Communities through Intelligent Surveillance"
 - **ICCEBS 2023-2024**: "Automating Timetable Generation with Conflict Resolution Algorithms"
 - **IEEE IC3IoT 2022-2023**: "E-Canteen Management System based on Web Application"
 
 ## 👨‍🏫 Leadership
-
 - 🎯 Cisco Campus Ambassador (2023-2024)
 - 💻 Web Dev Co-lead, Google Developer Student Club (2022-2024)
 - 🎓 Python Trainer, Code Club & IEEE (2021-2022) - Trained 40+ students
 - 🌱 Active Volunteer, Unnat Bharat Abhiyan (2020-2024)
 
 ## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/magesh-k21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
