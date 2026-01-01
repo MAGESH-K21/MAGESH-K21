@@ -96,8 +96,14 @@
 **Web**: HTML5, CSS3, React.js, WordPress, MySQL
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magesh-k21&show_icons=true&locale=en&layout=compact" alt="magesh-k21" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magesh-k21&" alt="magesh-k21" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAGESH-K21&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MAGESH-K21&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MAGESH-K21&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</p>
 
 ## 🏆 Achievements
 
